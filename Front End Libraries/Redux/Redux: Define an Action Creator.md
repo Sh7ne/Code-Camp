@@ -8,4 +8,12 @@ function actionCreator(){
     return action;
 }
 
+
+//ES6
+
+// Define an action creator here:
+const actionCreator = () => {
+  return action;
+};
+
 ```
