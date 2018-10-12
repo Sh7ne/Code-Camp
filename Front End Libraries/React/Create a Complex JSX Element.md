@@ -1,4 +1,4 @@
-```js
+```jsx
 
 // write your code here
 const JSX = 
