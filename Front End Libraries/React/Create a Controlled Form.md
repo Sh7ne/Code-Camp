@@ -19,7 +19,6 @@ class MyForm extends React.Component {
     // change code below this line
     event.preventDefault();
     this.setState({
-      input: event.target.value,
       submit: this.state.input
     });
     // change code above this line
