@@ -1,3 +1,6 @@
+```js
+
+
 let dog = {
   name: "Spot",
   numLegs: 4,
@@ -7,3 +10,6 @@ let dog = {
 };
 
 dog.sayLegs();
+
+
+```
